@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Salom, men Feruz
 
-<!--
-**feruzlabs/feruzlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**feruzlabs.dev** asoschisi, open source developer va DevOps ishqibozi.
 
-Here are some ideas to get you started:
+🎯 Maqsadim: Zamonaviy texnologiyalarni o‘zbek tilida o‘rgatish va ochiq manbali loyihalar orqali hamjamiyatga hissa qo‘shish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Texnologiyalar
+- PHP (Yii2), PostgreSQL
+- Docker, Kubernetes (boshlang‘ich)
+- GitHub Actions, bash scripting
+
+## 📢 Yangi loyihalar:
+- `feruzlabs.dev` — blog & dokumentatsiya (tez orada)
